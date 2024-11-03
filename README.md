@@ -5,11 +5,11 @@ This project is a FastAPI application designed to generate images and fine-tune 
 Features
 --------
 1) Generate Image: Create images based on custom prompts with adjustable dimensions and format.
-2) Fine-tune Model: Train models with custom images and configurations. \n
-3) Task Status Check: Monitor the status of fine-tuning or image-generation tasks. \n
+2) Fine-tune Model: Train models with custom images and configurations.
+3) Task Status Check: Monitor the status of fine-tuning or image-generation tasks.
 
 Project Structure
 ------------------
-1) main.py: Defines the FastAPI app and the API endpoints. \n
-2) models.py: Contains the data models used for request and response validation. \n
-3) config.py: Manages configuration settings, including the Replicate API key. \n
+1) main.py: Defines the FastAPI app and the API endpoints.
+2) models.py: Contains the data models used for request and response validation.
+3) config.py: Manages configuration settings, including the Replicate API key.
